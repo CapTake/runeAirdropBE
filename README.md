@@ -177,4 +177,6 @@ The base URL for the API is:
 ### Error Handling
 
 In case of errors, the API responds with appropriate HTTP status codes along with error messages in the response body.
-Contact me in https://t.me/lovely_libra777 or https://x.com/libraiger
+Contact me in 
+Twitter: https://t.me/lovely_libra777 or 
+Telegram: https://x.com/libraiger
